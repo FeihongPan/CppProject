@@ -1,0 +1,3 @@
+D:
+cd D:\VisualStudio2022\CPP\CppPrimer 进入文件夹
+devenv CppPrimer.sln 运行sln文件
